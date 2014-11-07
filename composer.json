@@ -1,0 +1,8 @@
+{
+    "name": "evovision/Barcode",
+    "autoload": {
+        "psr-0": {
+            "evovision\\Barcode" : "src"
+        }
+    }
+}
